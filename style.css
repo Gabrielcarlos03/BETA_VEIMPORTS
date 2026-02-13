@@ -683,6 +683,12 @@ a.footer-link:hover {
   }
 }
 
+#register .btn-dark:hover {
+    background-color: #d8b802 !important;
+    border-color: #d8b802 !important;
+    color: #000 !important;
+}
+
 
 /*--------------------------------------------------------------
 faqs page style start
@@ -691,6 +697,14 @@ faqs page style start
   color: var(--body-text-color);
   background-color: transparent;
   box-shadow: none;
+}
+
+.etiqueta
+{
+  font-size: 0.75rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    backdrop-filter: blur(5px); /* Efeito de vidro embaçado atrás do tamanho */
 }
 
 .accordion {
@@ -742,6 +756,45 @@ Blog page style start
   text-transform: uppercase;
 }
 
+/* Centraliza a logo e dá um espaçamento */
+.footer-logo img {
+    display: block;
+    margin: 0 auto 20px auto; /* O 'auto' nas laterais centraliza imagens */
+}
+
+/* Centralização e Estilo do Rodapé */
+#footer .footer-menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Garante que a logo e a lista fiquem no centro */
+    text-align: center;
+}
+
+#footer .social-links ul {
+    padding: 0 !important;
+    margin: 0 !important;
+    display: flex !important;
+    justify-content: center !important;
+    gap: 20px !important; /* Espaço entre os ícones */
+}
+
+/* Estilo dos Ícones das Redes Sociais */
+#footer .social-icon {
+    color: #ffffff !important;
+    font-size: 28px !important; /* Tamanho maior para ficar bonito */
+    transition: all 0.3s ease;
+}
+
+/* Efeito Hover (Fica dourado ao passar o mouse) */
+#footer .social-icon:hover {
+    color: #e9bc44 !important; /* O dourado da sua logo */
+    transform: translateY(-3px); /* Leve pulinho para cima */
+}
+
+/* Remove qualquer ponto de lista que possa ter sobrado */
+#footer li.social {
+    list-style: none !important;
+}
 a.blog-read {
   border-bottom: 1px solid #D9D9D8;
   transition: all 0.3s ease-in;
