@@ -1,70 +1,50 @@
-Get PRO Here:
-https://templatesjungle.gumroad.com/l/uniclub-t-shirt-bootstrap5-eCommerce-website-template
+# 🛍️ VeImports — Loja de Roupas (Versão Beta)
 
+Primeira versão do e-commerce da VeImports, loja de roupas masculinas. Projeto real desenvolvido com customização completa de layout, identidade visual e integração com WhatsApp para conversão de vendas.
 
-It is a free HTML CSS template by TemplatesJungle.com
-You can use this template as a starter template and start building as you require.
+> ⚠️ Esta é a versão Beta do projeto. A versão final e atualizada está disponível em [veimports.netlify.app](https://veimports.netlify.app)
 
-The code is consistent and can be easily maintained as we have followed a good coding standards. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
+---
 
+## 📋 Sobre o Projeto
 
-FREE FOR BOTH PERSONAL AND COMMERCIAL USE
+Este projeto marcou minha primeira experiência com desenvolvimento de um site real para um cliente. Parti de uma estrutura base e refiz completamente o design — todas as imagens, cores, identidade visual e conteúdo foram criados e aplicados por mim.
 
-This HTML Template is provided by TemplatesJungle.com and is free to use in both personal and commercial projects as long as you don't remove our credit link in the footer.
+Foi aqui que aprendi na prática a trabalhar com estrutura HTML semântica, estilização CSS avançada e organização de projeto front-end.
 
-However, you can remove the credit link by paying for No Attribution version of the template.
+---
 
+## ✅ O que foi customizado
 
-RIGHTS
+- Layout e identidade visual completamente reformulados
+- Todas as imagens dos produtos são originais
+- Categorias e estrutura de navegação adaptadas para a loja
+- Integração com WhatsApp para contato direto com o vendedor
+- Responsividade ajustada para mobile
 
-You are allowed to use it in your personal projects and commercial projects.
+---
 
-You can modify and sell it to your clients.
+## 🛠️ Tecnologias Utilizadas
 
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 5
+- Swiper Slider
+- IcoMoon Icons
+- Vercel (deploy)
 
-PROHIBITIONS
+---
 
-You cannot remove the credit link which links back to templatesjungle.com.
+## 🔗 Links
 
-You are not permitted to resell or redistribute (paid or free) as it is. 
+- 🌐 [Versão Beta — GitHub Pages](https://gabrielcarlos03.github.io/BETA_VEIMPORTS)
+- 🚀 [Versão Final — VeImports](https://veimports.netlify.app)
+- 📁 [Repositório da versão final](https://github.com/Gabrielcarlos03)
 
-You cannot use it to build premium templates, themes or any other goods to be sold on marketplaces.
+---
 
-If you want to share the free resource in your blog, you must point it to original TemplatesJungle.com resource page. 
+## 👨‍💻 Desenvolvedor
 
-You cannot host the download file in your website.
-
-
-SUPPORT
-
-You can contact us to report any bugs and errors in the template. We will try and fix them immediately although it's a free resource.
-
-Feel free to let us know about what you want to see in the future downloads. We will definitely give it a thought while creating our next freebie.
-
-
-CREDITS & REFERENCES
-
-https://getbootstrap.com/
-
-Stock Photos
-https://unsplash.com/
-https://www.freepik.com/
-https://www.pexels.com/
-
-Fonts
-Google fonts
-https://fonts.google.com/
-
-Icons
-https://icomoon.io/
-
-JQuery Plugins
-
-Swiper Slider - https://swiperjs.com/
-Slick Slider - https://kenwheeler.github.io/slick/
-Chocolat.js – a Free Lightbox Plugin -http://chocolat.insipi.de/
-Magnific Lightbox - https://github.com/dimsemenov/Magnific-Popup
-
-Thanks for downloading from TemplatesJungle.com !
-
-
+**Gabriel Carlos**
+[LinkedIn](https://www.linkedin.com/in/itsgabrielcarlos) • [GitHub](https://github.com/Gabrielcarlos03)
